@@ -1,16 +1,16 @@
 # ¡Hola! Soy Martín Izquierdo Cuevas 👋
 
 ## Sobre mí
-Soy un estudiante apasionado por el desarrollo de aplicaciones multiplataforma. Me encanta explorar nuevas tecnologías y desarrollar proyectos creativos que aporten soluciones innovadoras.
+Soy técnico en Sistemas Microinformáticos y Redes, actualmente estudiante de Grado Superior de Desarrollo de Aplicaciones Multiplataforma y mi interés actual es coger una formación más detallada y completa para desarrollar una carrera profesional. Me encanta explorar nuevas tecnologías y desarrollar proyectos creativos que aporten soluciones innovadoras.
 
-- 🌱 Actualmente estoy aprendiendo y mejorando mis habilidades en JavaScript, HTML, CSS, Java, PHP, MySQL, entre otros.
+- 🌱 Actualmente estoy aprendiendo y mejorando mis habilidades en JavaScript, HTML, XML, CSS, Java, PHP, MySQL, entre otros.
 - 💼 Estoy buscando oportunidades para colaborar en proyectos emocionantes y aprender de experiencias en el mundo real.
 - 🎓 Estudio Desarrollo de Aplicaciones Multiplataforma con dedicación y entusiasmo para crecer profesionalmente.
 
 ## Mis Habilidades
-- **Lenguajes de Programación:** JavaScript, HTML, CSS, Java, PHP
+- **Lenguajes de Programación:** JavaScript, HTML, XML, CSS, Java, PHP
 - **Bases de Datos:** MySQL
-- **Herramientas de Desarrollo:** Git, GitHub
+- **Herramientas de Desarrollo:** Git, GitHub, LibreOffice, Microsoft Office, Eclipse, VirtualBox, Visual Studio, PSeInt
 
 
 ## Contacto
