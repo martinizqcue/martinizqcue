@@ -17,7 +17,6 @@ Soy técnico en Sistemas Microinformáticos y Redes, actualmente estudiante de G
 ¡Estoy siempre interesado en conocer a otros desarrolladores y colaborar en proyectos emocionantes! No dudes en contactarme:
 
 - Email: martinizquierdocuevas@gmail.com
-- LinkedIn: [Martín Izquierdo Cuevas]([https://www.linkedin.com/in/mart%C3%ADn-izquierdo-cuevas](https://www.linkedin.com/in/mart%C3%ADn-izquierdo-cuevas-9b602629a/))
 
 ¡Gracias por visitar mi perfil! 😊
 
